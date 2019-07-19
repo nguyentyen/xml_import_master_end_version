@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7dfe91cc-4cf7-4d7d-8e6d-ea7ca5111489" name="probe_server" url="http://localhost/xml_import">
+        <fileTransfer port="0" mountedRoot="C:\xampp\php" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

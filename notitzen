@@ -1,0 +1,9 @@
+pscp.exe parser-master probearbeit@134.119.10.65:
+copy from windows to linux file
+
+
+scp.exe parser-master probearbeit@134.119.10.65:
+
+
+
+pscp.exe -r -i parser-master probearbeit@134.119.10.65:paser-master

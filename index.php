@@ -25,8 +25,8 @@ use Laravie\Parser\Document as BaseDocument;
 
 $xml = (new Reader(new Document()))->load('Emya.xml');
 
-echo 123;
-echo "<pre>";
+//echo 123;
+//echo "<pre>";
 
 
 $import = new Import($xml);

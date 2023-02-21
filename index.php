@@ -36,7 +36,7 @@ $data_to_import = $import->get_data();
 //echo "_________________________";
 var_dump(count($data_to_import));
 //echo "_________________________";
-die;
+//die;
 
 $db = new \pdo_insert($data_to_import);
 
